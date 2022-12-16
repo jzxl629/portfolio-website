@@ -92,7 +92,7 @@ a:hover {
 }
 
 .btn:hover {
-    background: --color-white;
+    background: var(--color-white);
     color: var(--color-bg);
     border-color: transparent;
 }
