@@ -1,6 +1,6 @@
 header {
     height: 100vh;
-    padding-top: 7rem;
+    padding-top: 9rem;
     overflow: hidden;
 }
 
@@ -10,9 +10,17 @@ header {
     position: relative;
 }
 
+.title h1 {
+    font-size: 4.5rem;
+}
+
+.special_title {
+    color: #F2E307;
+}
+
 /* ================= CTA ================== */
 .cta {
-    margin-top: 2.5rem;
+    margin-top: 3.5rem;
     display: flex;
     gap: 1.2rem;
     justify-content: center;
