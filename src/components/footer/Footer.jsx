@@ -23,12 +23,6 @@ const Footer = () => {
           <a href="#contact">Contact</a>
         </li>
       </ul>
-
-      <div className="footer__socials">
-        <a href="https://instagram.com" target="_blank" rel="noreferer">
-          <FiInstagram />
-        </a>
-      </div>
     </footer>
   );
 };
